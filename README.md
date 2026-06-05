@@ -16,7 +16,7 @@ An autonomous AI agent workspace built using **n8n workflow automation**. This s
 
 ## 🛠️ Workflow Architecture & Logic
 
-![n8n Workflow Blueprint](./workflow-screenshot.png)
+![n8n Workflow Blueprint](./Screenshot 2026-06-05 223939.png)
 
 The execution logic follows an agentic pipeline:
 
